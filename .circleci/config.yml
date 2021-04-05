@@ -5,7 +5,7 @@ orbs:
 
 jobs:
   build_and_test:
-    working_directory: ~/Back-end
+    working_directory: ~/Back-end/denv
     docker:
       - image: python:latest
         auth:
