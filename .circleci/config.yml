@@ -4,17 +4,7 @@ orbs:
   python: circleci/python@0.2.1
 
 jobs:
-  build-and-test:
-    executor: python/default
-    steps:
-      - checkout
-      - python/load-cache
-      - python/install-deps
-      - python/save-cache
-      - run:
-          command: ./denv/manage.py test
-          name: Test
-  build:
+  build_and_test:
     working_directory: ~/Back-end
     docker:
       - image: circleci/python3.9.0
@@ -39,7 +29,6 @@ jobs:
             - ".venv"
             - "/usr/local/bin"
             - "/usr/local/lib/python3.6/site-packages"
-    test:
       - run:
           command: python manage.py test
           name: Test
@@ -50,5 +39,4 @@ jobs:
 workflows:
   main:
     jobs:
-      - build
-      - test
+      - build_and_test
