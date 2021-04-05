@@ -36,7 +36,7 @@ jobs:
             - "/usr/local/bin"
             - "/usr/local/lib/python3.6/site-packages"
       - run:
-          command: python ./manage.py test
+          command: python manage.py test
           name: Test
 
 
