@@ -7,7 +7,7 @@ jobs:
   build_and_test:
     working_directory: ~/Back-end
     docker:
-      - image: python3.9
+      - image: python:latest
         auth:
           username: $DOCKERHUB_USERNAME
           password: $DOCKERHUB_PASSWORD
