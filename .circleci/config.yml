@@ -34,9 +34,9 @@ jobs:
             - ".venv"
             - "/usr/local/bin"
             - "/usr/local/lib/python3.6/site-packages"
-      - run: cd .. && ls
+      #- run: cd .. && ls
       - run:
-          command: python manage.py test
+          command: python denv/manage.py test
           name: Test
 
 
