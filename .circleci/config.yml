@@ -24,14 +24,13 @@ jobs:
       #- run: sudo chown -R circleci:circleci /usr/local/lib/python3.6/site-packages
       - run: cd denv/ && ls
       - restore_cache:
-          key: deps9-{{ .Branch }}-{{ checksum "requirements.txt" }}
-      - run: cd denv/
+          key: deps9-{{ .Branch }}-{{ checksum "/denv/requirements.txt" }}
       - run:
           name: Install Dependencies
           command: |
             pip install --user -r requirements.txt
       - save_cache:
-          key: deps9-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          key: deps9-{{ .Branch }}-{{ checksum "/denv/requirements.txt" }}
           paths:
             - ".venv"
             - "/usr/local/bin"
