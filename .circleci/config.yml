@@ -5,7 +5,6 @@ orbs:
 
 jobs:
   build_and_test:
-    working_directory: ~/denv
     docker:
       - image: python:latest
         auth:
@@ -35,6 +34,7 @@ jobs:
             - ".venv"
             - "/usr/local/bin"
             - "/usr/local/lib/python3.6/site-packages"
+      - run: ls
       - run:
           command: python manage.py test
           name: Test
