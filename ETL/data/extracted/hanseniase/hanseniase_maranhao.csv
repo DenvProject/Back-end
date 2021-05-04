@@ -1,0 +1,52 @@
+ Acompanhamento dos dados de Hanseníase - Maranhão
+FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
+Período:2001-2020
+"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
+"<1975";9;-;7
+"1976";1;-;1
+"1981";1;-;1
+"1987";1;-;5
+"1989";1;4;1
+"1990";4;12;16
+"1991";2;-;1
+"1992";5;6;42
+"1993";4;-;14
+"1994";8;32;32
+"1995";10;15;16
+"1996";9;12;40
+"1997";26;18;53
+"1998";45;24;92
+"1999";104;65;159
+"2000";314;351;526
+"2001";5248;2547;3206
+"2002";5740;3438;15385
+"2003";5768;3257;21633
+"2004";6118;3859;22957
+"2005";6480;8153;25400
+"2006";5501;26149;26048
+"2007";5176;39056;27339
+"2008";5265;43452;28709
+"2009";4839;41023;26977
+"2010";4960;42885;27901
+"2011";4747;41259;26997
+"2012";4800;41208;29206
+"2013";4718;42235;26741
+"2014";4547;41133;27077
+"2015";4474;41566;26343
+"2016";4264;38728;23686
+"2017";4142;38705;24613
+"2018";4195;40539;25759
+"2019";4265;36033;25592
+"2020";2316;8928;14560
+"Total";98107;584692;477135
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
+ Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
+ Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
+ As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
+ *Dados disponibilizados no TABNET em 01/2021
+ 

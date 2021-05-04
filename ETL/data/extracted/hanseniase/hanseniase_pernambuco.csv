@@ -1,0 +1,49 @@
+ Acompanhamento dos dados de Hanseníase - Pernambuco
+FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
+Período:2001-2020
+"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
+"<1975";8;1;51
+"1983";1;-;2
+"1989";2;-;4
+"1990";2;-;1
+"1992";3;-;25
+"1993";2;-;1
+"1994";6;19;28
+"1995";4;-;-
+"1996";7;10;22
+"1997";12;12;38
+"1998";20;2;94
+"1999";36;11;68
+"2000";281;202;173
+"2001";3463;1079;968
+"2002";3739;1850;7874
+"2003";4155;1613;13601
+"2004";3894;2233;13526
+"2005";3857;4102;14327
+"2006";3794;9845;15715
+"2007";3525;18521;19508
+"2008";3240;20768;18973
+"2009";3690;24996;20448
+"2010";3255;22368;19216
+"2011";3231;24557;19123
+"2012";3069;24274;18003
+"2013";3211;25834;17598
+"2014";3151;25720;17070
+"2015";2848;23443;14399
+"2016";2426;20358;13213
+"2017";3183;25726;17437
+"2018";3052;25697;17514
+"2019";3344;23710;16898
+"2020";1844;5480;9945
+"Total";66355;332431;305863
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
+ Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
+ Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
+ As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
+ *Dados disponibilizados no TABNET em 01/2021
+ 

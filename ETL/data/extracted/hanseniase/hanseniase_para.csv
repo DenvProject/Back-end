@@ -1,0 +1,30 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Internações por Ano/mês processamento
+Procedimento: 0303010223 TRATAMENTO DE INFECÇÃO PELO CORONAVIRUS – COVID 19, 0802010296 DIÁRIA DE UTI II ADULTO - SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG) - COVID19, 0802010300 DIÁRIA UTI II PEDIÁTRICA - SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG) - COVID19
+Período:Fev/2020-Fev/2021
+"Ano/mês processamento";"Internações"
+"2020";470529
+"..Abril/2020";4133
+"..Maio/2020";33074
+"..Junho/2020";58726
+"..Julho/2020";79378
+"..Agosto/2020";77322
+"..Setembro/2020";61882
+"..Outubro/2020";51426
+"..Novembro/2020";46934
+"..Dezembro/2020";57654
+"2021";138972
+"  Janeiro/2021";69514
+"  Fevereiro/2021";69458
+"Total";609501
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
