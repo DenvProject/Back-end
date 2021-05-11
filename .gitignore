@@ -130,4 +130,4 @@ dmypy.json
 
 .idea/
 *.sqlite3
-basicdatabase
+/denv/basicdatabase
