@@ -10,14 +10,6 @@ jobs:
         auth:
           username: $DOCKERHUB_USERNAME
           password: $DOCKERHUB_PASSWORD
-      - image: circleci/postgres
-        auth:
-            username: $DOCKERHUB_USERNAME
-            password: $DOCKERHUB_PASSWORD
-        environment:
-           POSTGRES_USER: postgres
-           POSTGRES_PASSWORD: postgres
-           POSTGRES_DB: postgres
     steps:
       - checkout
       #- run: sudo chown -R circleci:circleci /usr/local/bin
