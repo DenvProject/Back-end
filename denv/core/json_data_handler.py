@@ -1,5 +1,8 @@
 import json
 import os
+import pprint 
+pp = pprint.PrettyPrinter(indent=4)
+
 cur_path = os.path.dirname(__file__)
 
 def get_json_data(json_name : str) -> dict:
@@ -36,7 +39,28 @@ def handle_gastos_publicos_json():
     return result
 
 
+def handle_tuberculose_json() -> dict:
+    """
+    lida com a estrutura do json de dados de tuberculose e retorna uma nova estrutura
+    :return: dict
+    """
 
+    result = {}
+
+    tuberculose_data = get_json_data('tuberculose_processed.json')
+
+    indices = list(tuberculose_data.keys())
+    anos = indices[1: -2]
+
+    for index,un_fed in tuberculose_data['UF de notificacão'].items():
+        result[un_fed] = {}
+        result[un_fed]['regiao'] = tuberculose_data['Região'][index]
+        result[un_fed]["total"] = tuberculose_data['Total'][index]
+        result[un_fed]['casos_anuais'] = {}
+        for ano in anos:
+            result[un_fed]['casos_anuais'][ano] = tuberculose_data[ano][index]
+    
+    return result
 
 
 
