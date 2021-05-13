@@ -15,4 +15,4 @@ class CasosTuberculoseViewSet(viewsets.ViewSet):
 
     def list(self, request):
         casos_tuberculose = handle_tuberculose_json()
-        return Response(casos_tuberculose, status=200)
+        return Response(casos_tuberculose, status=200, headers={'Access-Control-Allow-Origin': '*'})
