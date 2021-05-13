@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 import os
 from pathlib import Path
 from dotenv import load_dotenv
-#import django_heroku
+import django_heroku
 load_dotenv()
 
 DB_HOST = os.getenv("DB_HOST") if os.getenv("DB_HOST") is not None else 'localhost'
@@ -133,4 +133,4 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
-#django_heroku.settings(locals())
+django_heroku.settings(locals())
