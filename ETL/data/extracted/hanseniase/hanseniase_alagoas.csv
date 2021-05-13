@@ -1,17 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Alagoas
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"1989";1;12;-
-"1990";1;4;-
-"1992";2;21;16
-"1994";1;6;1
-"1995";1;12;1
-"1996";1;-;3
-"1997";1;-;4
-"1998";4;11;40
-"1999";4;48;21
-"2000";21;50;56
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";401;74;305
 "2002";453;11;1592
 "2003";599;342;2371
@@ -33,14 +20,3 @@ Período:2001-2020
 "2019";370;2087;2470
 "2020";225;606;1548
 "Total";8856;45636;49121
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

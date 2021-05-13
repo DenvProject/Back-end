@@ -1,15 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Sergipe
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"<1975";1;8;5
-"1992";1;-;1
-"1994";2;-;7
-"1995";2;-;3
-"1996";2;-;3
-"1997";2;-;5
-"1999";12;6;79
-"2000";38;96;136
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";349;114;976
 "2002";498;367;2026
 "2003";665;454;2757
@@ -31,14 +20,3 @@ Período:2001-2020
 "2019";385;3303;2833
 "2020";284;1192;2269
 "Total";10235;62875;58237
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

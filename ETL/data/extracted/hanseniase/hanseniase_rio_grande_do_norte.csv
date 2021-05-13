@@ -1,10 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Rio Grande do Norte
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"1988";1;2;1
-"1998";1;-;-
-"2000";4;6;1
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";254;47;7
 "2002";274;150;29
 "2003";287;120;525
@@ -26,14 +20,3 @@ Período:2001-2020
 "2019";228;1347;1610
 "2020";193;406;1142
 "Total";6350;32315;28248
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

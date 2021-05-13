@@ -1,16 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Santa Catarina
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"1981";3;-;-
-"1990";1;-;4
-"1991";2;-;29
-"1994";2;12;103
-"1996";2;-;5
-"1997";4;-;38
-"1998";1;-;1
-"1999";5;-;35
-"2000";11;24;89
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";213;384;451
 "2002";267;229;1820
 "2003";293;353;1970
@@ -32,14 +20,3 @@ Período:2001-2020
 "2019";226;1464;2279
 "2020";127;343;1028
 "Total";4640;29392;43056
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

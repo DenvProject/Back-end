@@ -1,27 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Minas Gerais
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"<1975";36;56;207
-"1975";2;12;11
-"1978";2;24;6
-"1979";2;6;11
-"1982";1;12;20
-"1983";2;-;10
-"1987";3;-;42
-"1988";1;-;10
-"1989";1;-;-
-"1990";1;-;5
-"1991";1;-;16
-"1992";2;6;-
-"1993";5;22;21
-"1994";1;-;-
-"1995";8;24;77
-"1996";7;12;52
-"1997";12;15;33
-"1998";14;30;48
-"1999";16;75;64
-"2000";52;69;338
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";3088;4863;17917
 "2002";3760;6603;20552
 "2003";3613;8366;19969
@@ -43,14 +20,3 @@ Período:2001-2020
 "2019";1472;10843;11047
 "2020";869;2708;6753
 "Total";42995;254175;285133
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

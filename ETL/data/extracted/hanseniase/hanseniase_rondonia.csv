@@ -1,26 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Rondônia
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"<1975";9;6;13
-"1976";1;-;2
-"1977";1;12;3
-"1978";1;-;-
-"1979";1;-;1
-"1983";2;-;14
-"1987";1;6;1
-"1988";1;-;3
-"1990";2;12;6
-"1991";1;-;1
-"1992";3;6;4
-"1993";2;1;4
-"1994";1;-;8
-"1995";1;-;1
-"1996";3;-;4
-"1997";1;-;1
-"1998";4;-;4
-"1999";17;12;10
-"2000";45;33;30
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";1291;142;121
 "2002";1364;239;3790
 "2003";1572;352;4756
@@ -42,14 +20,3 @@ Período:2001-2020
 "2019";616;3031;2993
 "2020";405;1799;2123
 "Total";21058;116727;74416
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

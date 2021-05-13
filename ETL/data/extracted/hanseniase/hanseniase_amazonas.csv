@@ -1,20 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Amazonas
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"<1975";1;-;1
-"1987";1;-;8
-"1988";1;12;8
-"1991";4;-;14
-"1992";1;-;2
-"1993";3;25;8
-"1994";2;18;-
-"1995";3;-;6
-"1996";1;-;1
-"1997";2;-;6
-"1998";3;-;3
-"1999";5;36;10
-"2000";11;24;34
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";1464;852;80
 "2002";1605;1425;511
 "2003";1315;1048;4505
@@ -36,14 +20,3 @@ Período:2001-2020
 "2019";522;3931;3117
 "2020";277;1082;1594
 "Total";17608;91490;71061
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 

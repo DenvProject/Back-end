@@ -1,27 +1,4 @@
- Acompanhamento dos dados de Hanseníase - Mato Grosso
-FrequênciaNº DOSESLesões Cutâneas por Ano Diagnóstico
-Período:2001-2020
-"Ano Diagnóstico";"Frequência";"Nº_DOSES";"Lesões_Cutâneas"
-"<1975";10;28;22
-"1977";1;4;8
-"1979";1;12;6
-"1980";4;19;11
-"1984";4;24;12
-"1985";1;-;-
-"1986";1;-;-
-"1988";4;24;7
-"1989";1;-;-
-"1990";2;-;3
-"1991";3;2;4
-"1992";3;12;8
-"1993";2;11;3
-"1994";4;36;10
-"1995";5;-;5
-"1996";6;6;20
-"1997";10;50;30
-"1998";20;49;62
-"1999";71;144;122
-"2000";290;616;442
+"Ano Diagnï¿½stico";"Frequï¿½ncia";"Nï¿½_DOSES";"Lesï¿½es_Cutï¿½neas"
 "2001";3939;4851;3431
 "2002";3942;4991;11842
 "2003";4335;5249;13512
@@ -43,14 +20,3 @@ Período:2001-2020
 "2019";5627;51210;25316
 "2020";2796;12482;15132
 "Total";77501;531704;308583
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
- Excluídos casos não residentes no Brasil.
- Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
- Para tabular os dados de hanseníase pode ser acessado o Caderno de Análise, pelo link:http://portalsinan.saude.gov.br/hanseniase.
- Os bancos de dados de 2001 a 2020 são bancos brutos, não receberam nenhum tratamento, nem foram consolidados, por tanto os dados aqui disponíveis podem apresentar diferenças em relação aos boletins epidemiológicos e outras publicações de hanseníase.
- Dados do ano de 2020, do estado do Espírito Santo, não disponíveis.
- As bases de dados de 2018 a 2020 ainda podem receber atualizações na notificação de casos.
- *Dados disponibilizados no TABNET em 01/2021
- 
