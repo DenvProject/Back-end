@@ -1,1 +1,1 @@
-web: gunicorn denv.denv.wsgi
+web: gunicorn denv.wsgi
