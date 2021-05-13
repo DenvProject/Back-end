@@ -1,8 +1,9 @@
 FROM python:3.9
 ENV PYTHONUNBUFFERED=1
 
-RUN mkdir /denv
-WORKDIR /denv
+
+WORKDIR /
+
 RUN apt-get update && \
         apt-get install -y \
         build-essential \
@@ -19,7 +20,8 @@ RUN apt-get update && \
 		netcat \
 		libpoppler-cpp-dev \
         python-dev
-COPY requirements.txt /denv/
+
+COPY requirements.txt /tmp/requirements.txt
 RUN pip3 install --upgrade pip
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r /tmp/requirements.txt
 COPY . /denv/
