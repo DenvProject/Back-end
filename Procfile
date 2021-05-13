@@ -1,1 +1,1 @@
-web: gunicorn back-end.wsgi
+web: gunicorn denv.wsgi
